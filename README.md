@@ -1,2 +1,1 @@
-# CodePHP
-Some code samples about PHP. 
+Text examples 

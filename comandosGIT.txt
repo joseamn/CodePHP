@@ -1,0 +1,26 @@
+Comandos git 
+
+local : 
+
+git init 
+
+git config --global user.name 
+git config --global user.name = ""
+
+git config --global user.email 
+git config --global user.email = "" 
+
+CRIAR UM ARQUIVO DE EXEMPLO .txt 
+
+git add * 
+git add .
+git add <exemplo.txt> 
+
+git status 
+git stash 
+
+git commit -m "<data>.<versão> ou <mods>"
+
+git remote add origin https://github.com/joseamn/Node.JS.git
+
+git pull https://github.com/joseamn/Node.JS.git

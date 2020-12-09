@@ -1,0 +1,25 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseamn/Node.JS.git"
+  },
+  "author": "José Mey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseamn/Node.JS/issues"
+  },
+  "homepage": "https://github.com/joseamn/Node.JS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.6"
+  }
+}
